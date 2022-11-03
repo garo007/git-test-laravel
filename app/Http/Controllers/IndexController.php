@@ -8,6 +8,12 @@ class IndexController extends Controller
 {
     public function index()
     {
-        return 1
+        return 1;
     }
+
+    public function show()
+    {
+        return 1;
+    }
+
 }
